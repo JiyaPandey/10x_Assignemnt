@@ -1,0 +1,4 @@
+[console_scripts]
+depth_debug = my_package.depth_debug:main
+main_node = my_package.main_node:main
+
